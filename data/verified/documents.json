@@ -1,0 +1,42 @@
+[
+  {
+    "instrument_id": "nd118-2025",
+    "number": "118/2025/NĐ-CP",
+    "issued_date": "2025-06-09",
+    "effective_from": "2025-07-01",
+    "source_url": "https://vanban.chinhphu.vn/?classid=0&docid=213871&pageid=27160",
+    "chunks": [
+      {
+        "semantic_chunk_id": "nd118/dieu-3/pham-vi-cong-dich-vu-cong",
+        "effective_from": "2025-07-01",
+        "text": "Nghị định 118/2025/NĐ-CP quy định việc thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia."
+      },
+      {
+        "semantic_chunk_id": "nd118/dieu-17/tiep-nhan-ho-so",
+        "effective_from": "2025-07-01",
+        "text": "Điều 17 quy định việc tiếp nhận hồ sơ thủ tục hành chính tại Bộ phận Một cửa."
+      }
+    ]
+  },
+  {
+    "instrument_id": "nd309-2026",
+    "number": "309/2026/NĐ-CP",
+    "issued_date": "2026-08-05",
+    "effective_from": "2026-08-05",
+    "amends_id": "nd118-2025",
+    "source_url": "https://vanban.chinhphu.vn/?classid=1&docid=219100&pageid=27160",
+    "chunks": [
+      {
+        "semantic_chunk_id": "nd118/dieu-3/khoan-9",
+        "effective_from": "2026-08-05",
+        "text": "Điều 1 khoản 2 Nghị định 309/2026/NĐ-CP bổ sung khoản 9 Điều 3: thiết bị tự phục vụ hỗ trợ thực hiện thủ tục hành chính được gọi là ki-ốt thông minh."
+      },
+      {
+        "semantic_chunk_id": "nd118/dieu-17/khoan-2a",
+        "effective_from": "2026-08-05",
+        "text": "Điều 8 khoản 2 Nghị định 309/2026/NĐ-CP bổ sung khoản 2a Điều 17: hồ sơ nộp qua ki-ốt thông minh được tự động xác thực danh tính qua VNeID hoặc thiết bị đọc thẻ Căn cước."
+      }
+    ]
+  }
+]
+
